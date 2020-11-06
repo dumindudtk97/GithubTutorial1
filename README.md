@@ -1,2 +1,6 @@
 # GithubTutorial1
-tutorial on github
+# Heading
+# Subheading
+*italic* **bold**
+
+*tutorial on github*
